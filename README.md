@@ -1,0 +1,2 @@
+# GOATS_TOKEN
+The GOATS Token
